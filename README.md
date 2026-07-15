@@ -6,7 +6,7 @@ I'm a Customer Success and Account Management professional with 2+ years of expe
 
 My background includes high-volume customer operations, Salesforce CRM, dispute resolution, SLA management, and cross-functional collaboration. I enjoy solving customer problems, improving workflows, and creating better user experiences.
 
-Alongside my customer-facing career, I've been teaching myself AI-assisted no-code development. Using tools like Bolt.new, Voiceflow, Zapier, Make.com, and ChatGPT, I've built websites and workflow automations while continuously learning modern AI tools.
+Alongside my customer-facing career, I've been teaching myself AI-assisted no-code development. Using tools like Bolt.new, Voiceflow, Zapier, Make.com, and ChatGPT, I've independently built multiple responsive websites and workflow automation projects using Bolt.new, Voiceflow, Zapier, Make.com, and ChatGPT while continuously expanding my knowledge of AI-powered tools.
 
 ## What I Work With
 
