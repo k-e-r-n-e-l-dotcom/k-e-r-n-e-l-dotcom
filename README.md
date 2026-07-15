@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Kushank Kumar 👋
 
-<!--
-**k-e-r-n-e-l-dotcom/k-e-r-n-e-l-dotcom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Customer Success | Account Management | AI-Assisted No-Code Builder
 
-Here are some ideas to get you started:
+I'm a Customer Success and Account Management professional with 3+ years of experience supporting customers across the US, UK, and Canadian markets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background includes high-volume customer operations, Salesforce CRM, dispute resolution, SLA management, and cross-functional collaboration. I enjoy solving customer problems, improving workflows, and creating better user experiences.
+
+Alongside my customer-facing career, I've been teaching myself AI-assisted no-code development. Using tools like Bolt.new, Voiceflow, Zapier, Make.com, and ChatGPT, I've built websites and workflow automations while continuously learning modern AI tools.
+
+## What I Work With
+
+- Customer Success
+- Account Management
+- Salesforce CRM
+- Client Communication
+- Case Management
+- SLA Management
+- AI-Assisted Workflow Automation
+- Bolt.new
+- Voiceflow
+- Zapier
+- Make.com
+
+## Projects
+
+Here you'll find some of my AI-assisted no-code projects, including websites and workflow automation experiments.
+
+These projects demonstrate my curiosity, problem-solving approach, and willingness to learn new technologies independently.
+
+## Currently Learning
+
+- AI Automation
+- No-Code Development
+- Workflow Design
+- Customer Success Technology
+- SaaS Operations
+
+## Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/kushank-kumar-755a46417/
+- Email: kushank.analyst@gmail.com
+
+Thanks for visiting my profile!
