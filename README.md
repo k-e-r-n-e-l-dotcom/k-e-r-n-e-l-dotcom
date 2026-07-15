@@ -6,7 +6,7 @@ I'm a Customer Success and Account Management professional with 2+ years of expe
 
 My background includes high-volume customer operations, Salesforce CRM, dispute resolution, SLA management, and cross-functional collaboration. I enjoy solving customer problems, improving workflows, and creating better user experiences.
 
-Alongside my customer-facing career, I've been teaching myself AI-assisted no-code development. Using tools like Bolt.new, Voiceflow, Zapier, Make.com, and ChatGPT, I've independently built multiple responsive websites and workflow automation projects using Bolt.new, Voiceflow, Zapier, Make.com, and ChatGPT while continuously expanding my knowledge of AI-powered tools.
+Alongside my customer-facing career, I've been teaching myself AI-assisted no-code development. Using tools like Bolt.new, Voiceflow, Zapier, Make.com, and ChatGPT, I've independently built responsive websites and workflow automation projects while continuously expanding my knowledge of AI-powered business solutions.
 
 ## What I Work With
 
@@ -24,9 +24,9 @@ Alongside my customer-facing career, I've been teaching myself AI-assisted no-co
 
 ## Projects
 
-Here you'll find some of my AI-assisted no-code projects, including websites and workflow automation experiments.
-
-These projects demonstrate my curiosity, problem-solving approach, and willingness to learn new technologies independently.
+- AI-assisted business websites built using Bolt.new
+- Workflow automation experiments with Voiceflow, Zapier, and Make.com
+- Customer experience and business process automation projects
 
 ## Currently Learning
 
@@ -38,7 +38,7 @@ These projects demonstrate my curiosity, problem-solving approach, and willingne
 
 ## Let's Connect
 
-- LinkedIn: https://www.linkedin.com/in/kushank-kumar-755a46417/
+- LinkedIn: [Kushank Kumar](https://www.linkedin.com/in/kushank-kumar-755a46417/)
 - Email: kushank.analyst@gmail.com
 
 Thanks for visiting my profile!
