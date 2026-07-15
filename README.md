@@ -2,7 +2,7 @@
 
 ## Customer Success | Account Management | AI-Assisted No-Code Builder
 
-I'm a Customer Success and Account Management professional with 3+ years of experience supporting customers across the US, UK, and Canadian markets.
+I'm a Customer Success and Account Management professional with 2+ years of experience supporting customers across the US, UK, and Canadian markets.
 
 My background includes high-volume customer operations, Salesforce CRM, dispute resolution, SLA management, and cross-functional collaboration. I enjoy solving customer problems, improving workflows, and creating better user experiences.
 
